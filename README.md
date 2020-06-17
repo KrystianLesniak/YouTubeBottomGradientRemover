@@ -1,6 +1,7 @@
 # YouTubeBottomGradientRemover
 UserScript that disables bottom gradient for YouTube player, all for yours better clarity.
 
+![Changes Preview](https://github.com/KrystianLesniak/YouTubeBottomGradientRemover/blob/master/READMEimage.png)
 
 ## Installation
 
