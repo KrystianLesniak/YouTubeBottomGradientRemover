@@ -5,7 +5,7 @@
 // @license MIT
 // @description  UserScript that disables bottom gradient for YouTube player, all for yours better clarity.
 // @author       Krystian Leśniak
-// @match  *://*.youtube.com/watch?v=*
+// @match  *://*.youtube.com/watch?*
 // @updateURL   https://github.com/KrystianLesniak/YouTubeBottomGradientRemover/raw/master/YouTubeBottomGradientRemover.user.js
 // @downloadURL https://github.com/KrystianLesniak/YouTubeBottomGradientRemover/raw/master/YouTubeBottomGradientRemover.user.js
 // @supportURL https://github.com/KrystianLesniak/YouTubeBottomGradientRemover/issues
