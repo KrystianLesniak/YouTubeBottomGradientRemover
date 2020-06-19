@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         YouTube bottom gradient remover
 // @namespace    https://github.com/KrystianLesniak
-// @version      0.1.1
+// @version      0.1.2
 // @license MIT
 // @description  UserScript that disables bottom gradient for YouTube player, all for yours better clarity.
 // @author       Krystian Leśniak
